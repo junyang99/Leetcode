@@ -1,0 +1,3 @@
+def board_check(board, word_check):
+for i in list:
+    if [i][i] == 
